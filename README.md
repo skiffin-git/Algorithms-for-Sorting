@@ -10,4 +10,4 @@
 
 ## Shake (cocktail) sort
 
-![3](images/shake)
+![3](images/shake.gif)
